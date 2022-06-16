@@ -15,6 +15,9 @@
 </a>
 </div>
 
+### Languages and Tools:
+
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermescr)](https://github.com/guilhermescr/)
 
 <!--
 **guilhermescr/guilhermescr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
