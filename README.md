@@ -1,8 +1,14 @@
-### Hey, I'm Guilherme 👊🏻
+<div style="display: flex; flex-flow: column wrap; justify-content: center; align-items: center; margin: 0 auto; max-width:500px;">
+<img src="icons/guidev-logo.png" style="width: 250px; height: 250px; border-radius: 50%;">
+<h3>Hey, I'm Guilherme 👊🏻
+</h3>
+</div>
 
 ## I'm a Junior Frontend Developer!
  - 💻 I've started coding on 16/01/2022
- - I'm currently learning 📒 JavaScript and TypeScript 📘
+ - I'm currently learning:
+   📒 JavaScript
+   📘 TypeScript
  - I'm willing to help anyone who needs a hand in their projects 💁🏻‍♂️
 
 ### Connect with me:
@@ -16,20 +22,18 @@
 </div>
 
 ### Languages and Tools:
+<div>
+<img src="icons/html.svg" width="30px" style="margin-right: 10px;"> <img src="icons/css.svg" width="30px" style="margin-right: 10px;"> <img src="icons/js.svg" width="30px" style="margin-right: 10px;"> <img src="icons/ts.png" width="30px" style="margin-right: 10px;"> <img src="icons/eclipse.webp" width="30px" style="margin-right: 10px;"> <img src="icons/vscode.svg" width="30px" style="margin-right: 10px;"> <img src="icons/git.svg" width="30px" style="margin-right: 10px;"> <img src="icons/github.png" width="30px">
+</div>
+<br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermescr&card_width=495px)](https://github.com/guilhermescr/)
+
+<hr style="height: 3px; background-color: #404040; border-radius: 95%;" />
+
+### Stats:
 [![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermescr)](https://github.com/guilhermescr/)
 
-<!--
-**guilhermescr/guilhermescr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Thank you for visiting my profile 💖
