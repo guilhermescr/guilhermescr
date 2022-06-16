@@ -1,11 +1,3 @@
-<style>
-  div {
-    display: flex;
-    flex-flow: row wrap;
-    gap: 15px;
-  }
-</style>
-
 ### Hey, I'm Guilherme 👊🏻
 
 ## I'm a Junior Frontend Developer!
@@ -14,10 +6,13 @@
  - I'm willing to help anyone who needs a hand in their projects 💁🏻‍♂️
 
 ### Connect with me:
-<div>
-<a href="https://guilhermescr.github.io/startse-desafio-moduloIV/" target="_blank" rel="external"><img src="icons/globe.svg"></a>
-<a href="https://www.instagram.com/guiidev_/" target="_blank" rel="external"><img src="icons/instagram.svg"></a>
-<a href="https://www.linkedin.com/in/guilherme-rocha-b3709a230/" target="_blank" rel="external"><img src="icons/linkedin.svg"></a>
+<div style="display: flex; flex-flow: row wrap; gap: 15px;">
+<a href="https://guilhermescr.github.io/startse-desafio-moduloIV/" target="_blank" rel="external"><img src="icons/globe.svg">
+</a>
+<a href="https://www.instagram.com/guiidev_/" target="_blank" rel="external"><img src="icons/instagram.svg">
+</a>
+<a href="https://www.linkedin.com/in/guilherme-rocha-b3709a230/" target="_blank" rel="external"><img src="icons/linkedin.svg">
+</a>
 </div>
 
 
