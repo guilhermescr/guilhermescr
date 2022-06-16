@@ -1,4 +1,25 @@
-### Hi there 👋
+<style>
+  div {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 15px;
+  }
+</style>
+
+### Hey, I'm Guilherme 👊🏻
+
+## I'm a Junior Frontend Developer!
+ - 💻 I've started coding on 16/01/2022
+ - I'm currently learning 📒 JavaScript and TypeScript 📘
+ - I'm willing to help anyone who needs a hand in their projects 💁🏻‍♂️
+
+### Connect with me:
+<div>
+<a href="https://guilhermescr.github.io/startse-desafio-moduloIV/" target="_blank" rel="external"><img src="icons/globe.svg"></a>
+<a href="https://www.instagram.com/guiidev_/" target="_blank" rel="external"><img src="icons/instagram.svg"></a>
+<a href="https://www.linkedin.com/in/guilherme-rocha-b3709a230/" target="_blank" rel="external"><img src="icons/linkedin.svg"></a>
+</div>
+
 
 <!--
 **guilhermescr/guilhermescr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
