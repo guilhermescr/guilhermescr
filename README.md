@@ -27,12 +27,12 @@
 </div>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermescr&card_width=495px)](https://github.com/guilhermescr/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermescr&card_width=495px)](https://guilhermescr.github.io/guilhermescr/)
 
 <hr style="height: 3px; background-color: #404040; border-radius: 95%;" />
 
 ### Stats:
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermescr)](https://github.com/guilhermescr/)
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermescr)](https://guilhermescr.github.io/guilhermescr/)
 
 <br />
 
