@@ -4,7 +4,7 @@
 </h3>
 </div>
 
-## I'm a Junior Frontend Developer!
+## I'm a Frontend Developer!
  - 💻 I've started coding on 16/01/2022
  - I'm currently learning:
    📒 JavaScript
@@ -17,7 +17,7 @@
 </a>
 <a href="https://www.instagram.com/guiidev_/" target="_blank" rel="external"><img src="icons/instagram.svg">
 </a>
-<a href="https://www.linkedin.com/in/guilherme-rocha-b3709a230/" target="_blank" rel="external"><img src="icons/linkedin.svg">
+<a href="https://www.linkedin.com/in/guilhermescr/" target="_blank" rel="external"><img src="icons/linkedin.svg">
 </a>
 </div>
 
