@@ -504,6 +504,10 @@ span#author-name:hover {
   position: relative;
 }
 
+#projects .projects-items .project:nth-child(1) :hover {
+  height: 24rem !important;
+}
+
 #projects .projects-items .project:hover {
   background-color: #000;
   height: 31rem;
