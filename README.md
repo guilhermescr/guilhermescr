@@ -7,8 +7,7 @@
 ## I'm a Frontend Developer!
  - 💻 I've started coding on 16/01/2022
  - I'm currently learning:
-   📒 JavaScript
-   📘 TypeScript
+   📘 React
  - I'm willing to help anyone who needs a hand in their projects 💁🏻‍♂️
 
 ### Connect with me:
