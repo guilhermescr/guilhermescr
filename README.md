@@ -14,7 +14,7 @@
 <div style="display: flex; flex-flow: row wrap; gap: 20px;">
 <a href="https://guilhermescr.github.io/guilhermescr/portfolio/" target="_blank" rel="external"><img src="icons/globe.svg">
 </a>
-<a href="https://www.instagram.com/guiidev_/" target="_blank" rel="external"><img src="icons/instagram.svg">
+<a href="https://www.instagram.com/devguiga/" target="_blank" rel="external"><img src="icons/instagram.svg">
 </a>
 <a href="https://www.linkedin.com/in/guilhermescr/" target="_blank" rel="external"><img src="icons/linkedin.svg">
 </a>
