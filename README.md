@@ -6,25 +6,18 @@
 
 ## I'm a Frontend Developer!
  - 💻 I've started coding on 16/01/2022
- - I'm currently learning:
-   📘 TypeScript
- - I'm willing to help anyone who needs a hand in their projects 💁🏻‍♂️
+ - I'm getting better at the Angular framework ❤
+
+## Portfolio
+Info about me, my projects, my CV and others, you can find them here: [click here.](https://portfolio-devguiga.vercel.app/)
 
 ### Connect with me:
 <div style="display: flex; flex-flow: row wrap; gap: 20px;">
-<a href="https://guilhermescr.github.io/guilhermescr/portfolio/" target="_blank" rel="external"><img src="icons/globe.svg">
-</a>
 <a href="https://www.instagram.com/devguiga/" target="_blank" rel="external"><img src="icons/instagram.svg">
 </a>
 <a href="https://www.linkedin.com/in/guilhermescr/" target="_blank" rel="external"><img src="icons/linkedin.svg">
 </a>
 </div>
-
-### Languages and Tools:
-<div>
-<img src="icons/html.svg" width="30px" style="margin-right: 10px;"> <img src="icons/css.svg" width="30px" style="margin-right: 10px;"> <img src="icons/js.svg" width="30px" style="margin-right: 10px;"> <img src="icons/ts.png" width="30px" style="margin-right: 10px;"> <img src="icons/eclipse.webp" width="30px" style="margin-right: 10px;"> <img src="icons/vscode.svg" width="30px" style="margin-right: 10px;"> <img src="icons/git.svg" width="30px" style="margin-right: 10px;"> <img src="icons/github.png" width="30px">
-</div>
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermescr&card_width=495px)](https://guilhermescr.github.io/guilhermescr/)
 
