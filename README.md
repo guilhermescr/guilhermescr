@@ -13,7 +13,7 @@
 
 💡 &nbsp;I'm a Fullstack Developer from Salvador, Brazil.  
 💻 &nbsp;Currently working at **AmberSoft** on the SmartGran platform.  
-🌱 &nbsp;I'm focused on improving my backend and frontend skills using **Next.js, NestJS, Expo**, and studying **Data Structures** and **Node.js**.  
+🌱 &nbsp;I'm focused on improving my frontend and backend skills using **Angular and Node.js**, and studying **Data Structures** and **Testing**.  
 ✍️ &nbsp;In my free time, I work on personal apps, practice deliberate learning, and deepen my knowledge in software architecture.  
 💬 &nbsp;Feel free to reach out if you'd like to talk about web development, mobile development, or tech in general!  
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/guilhermescr) for more details about my work.
@@ -24,11 +24,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
+![Angular](https://img.shields.io/badge/-React-05122A?style=flat&logo=angular)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
